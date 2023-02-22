@@ -1,0 +1,15 @@
+header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 120px;
+    padding-right: 120px;
+    img {
+        height: 50px;
+    }
+}
